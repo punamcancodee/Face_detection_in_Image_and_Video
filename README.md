@@ -54,5 +54,9 @@ Detected face in Images
     
 ## Demo
 
-Insert gif or link to demo
+
+https://github.com/punamcancodee/Face_detection_in_Image_and_Video/assets/132026775/8e5b8e6b-e113-40df-9e0e-e9b631092912
+
+
+
 
